@@ -3,7 +3,7 @@
 <!--
 **eyerus21/eyerus21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a Data Engineer with a Software Engineering background. I am passionate about all things technology, and I love to learn new things. Currently, I am looking for job opportunities in the area of Data engineering.
+A Data engineer with software engineering experience, along with experience in Data Engineering, Data visualization, Deep learning, Machine learning,Natural language processing, computational and numerical analysis, and implementing algorithms. Passionate about educating the next generation of technology users and innovators.
 
 ### About Me 
 - 🎓 &nbsp;I have studied Bachelor's Degree in Computer Science and Engineering at Mekelle Institute of Technology.
