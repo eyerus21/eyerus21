@@ -1,4 +1,4 @@
-### Hi everyone 👋🏾, I'm Eyerusalem Gebreegzabiher 
+### Hi 👋🏾, I'm Eyerusalem Gebreegzabiher 
 
 <!--
 **eyerus21/eyerus21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
