@@ -9,8 +9,7 @@ A Data engineer with software engineering experience, along with experience in D
 - 🎓 &nbsp;I have studied Bachelor's Degree in Computer Science and Engineering at Mekelle Institute of Technology.
 - 🎓 &nbsp;I completed three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
 - 🔭 &nbsp;I’m currently taking Masters degree in Computer Science at Maharishi International University. 
-- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects.
-- ⚡ &nbsp;Fun fact: I like playing Tennis.  
+  
 
 ## My top open source projects
 <p align="left">
