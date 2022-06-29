@@ -3,8 +3,6 @@
 <!--
 **eyerus21/eyerus21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-A Data engineer with software engineering experience, along with experience in Data Engineering, Data visualization, Deep learning, Machine learning,Natural language processing, computational and numerical analysis, and implementing algorithms. Passionate about educating the next generation of technology users and innovators.
-
 ### About Me 
 - 🎓 &nbsp;I have studied Bachelor's Degree in Computer Science and Engineering at Mekelle Institute of Technology.
 - 🎓 &nbsp;I completed three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
