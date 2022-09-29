@@ -28,7 +28,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
 
-#### Frameworks/Libraries
+### Frameworks/Libraries
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
