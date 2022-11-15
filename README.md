@@ -70,7 +70,7 @@
 
 ## Where to find me
 <p align="left">
-  <a href="https://www.linkedin.com/in/eyerusalem-hadgu/"><img src="https://img.shields.io/badge/-Eyerusalem%20Gebreegzabiher-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eyerusalem-hadgu/"><img src="https://img.shields.io/badge/-Eyerusalem%20Hadgu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:eyerusalem.hadgu21@gmail.com"><img src="https://img.shields.io/badge/-eyerusalem.hadgu21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyerus21" alt="eyerus21" /> </p>
