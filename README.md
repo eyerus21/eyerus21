@@ -65,7 +65,7 @@
     <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eyerus21&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=eyerus21&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
   </a>
-  <a href="https://github.com/eyerus21"><img alt="eandualem's Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=eyerus21&theme=react-dark&hide_border=true" /></a>
+  <a href="https://github.com/eyerus21"><img alt="eyerusalem's Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=eyerus21&theme=react-dark&hide_border=true" /></a>
 </p>
 
 ## Where to find me
